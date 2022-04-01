@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RogerDurdn
+- 👋 Hi, I’m Roger
 - 👀 I’m interested in Devops technologies and backend
 - 🌱 I’m currently learning Docker - GithubActions - Go - SYS admin stuff
 - 💞️ I’m looking to collaborate on Projects with Java - Spring / Go

@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning Docker - GithubActions - Go - SYS admin stuff
 - 💞️ I’m looking to collaborate on Projects with Java - Spring / Go
 
-<!---
-RogerDurdn/RogerDurdn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogerdurdn)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" style="padding-right: 15%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerdurdn&hide=css,scss,html,javascript&layout=compact&theme=gruvbox" />
+   <img class="img" src="https://github-readme-stats.vercel.app/api?username=rogerdurdn&hide=contribs&show_icons=true&theme=gruvbox" />
+</div>
